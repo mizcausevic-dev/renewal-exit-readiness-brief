@@ -1,0 +1,997 @@
+{
+  "report": {
+    "generatedAt": "2026-06-02T00:00:00Z",
+    "summary": {
+      "accountsTracked": 6,
+      "highExitRiskAccounts": 3,
+      "atRiskRenewals": 5,
+      "sponsorFragilityAccounts": 4,
+      "averageRenewalConfidence": 71.2,
+      "renewalExposureMillions": 153,
+      "leadingMessage": "Renewal weakness is now cross-functional and should be closed as one board-visible save and exit-readiness workstream."
+    },
+    "items": [
+      {
+        "id": "ai-governance-renewal",
+        "lane": "AI governance renewal cluster",
+        "track": "RENEWAL_RISK",
+        "action": "SAVE",
+        "accountCluster": "AI governance advisory renewals",
+        "boardQuestion": "Which AI-governance renewals are most likely to slip into exit without immediate intervention?",
+        "owner": "Chief AI Officer",
+        "audience": "Board growth committee",
+        "currentPosture": "Renewal intent is still present, but proof of operational impact has aged.",
+        "renewalNarrative": "The AI governance lane is sticky enough to renew if we tighten the operator proof set.",
+        "exitRiskReality": "Rollback, exception, and eval proof is older than the renewal story implies.",
+        "riskHeadline": "AI-governance renewals need fresher operating proof before the next board-ready commercial review.",
+        "renewalSignal": "Pipeline stays warm, but customer confidence is now asking for newer evidence of control durability.",
+        "missingProof": "Fresh exception-handling export, renewed eval packet, and updated rollback outcomes",
+        "evidenceArtifacts": [
+          "exception-handling export",
+          "evaluation packet",
+          "rollback outcomes"
+        ],
+        "remediationMoves": [
+          "refresh operating exports",
+          "tighten board renewal memo",
+          "restate newest proof boundaries"
+        ],
+        "relatedSurfaces": [
+          "scorecard.kineticgain.com",
+          "memo.kineticgain.com",
+          "agents.kineticgain.com"
+        ],
+        "companyTags": [
+          "OpenAI",
+          "Anthropic",
+          "Microsoft"
+        ],
+        "renewalConfidenceScore": 69,
+        "deliveryFreshnessDays": 28,
+        "sponsorContinuityScore": 72,
+        "churnSignalCount": 1,
+        "contractExposureScore": 81,
+        "renewalExposureMillions": 34,
+        "headline": "AI governance renewals are recoverable, but only if proof freshness improves fast.",
+        "narrative": "This is a delivery-proof and board-story problem more than a category-demand problem.",
+        "nextMove": "Refresh the operating packet and narrow the renewal story to the highest-confidence outcomes.",
+        "renewalConfidenceAssessment": {
+          "severity": "MEDIUM",
+          "ok": false,
+          "message": "Renewal confidence exists, but the narrative should narrow before the next cycle."
+        },
+        "deliveryFreshnessAssessment": {
+          "severity": "MEDIUM",
+          "ok": false,
+          "message": "Delivery proof is aging and should be refreshed before the next commercial review."
+        },
+        "sponsorContinuityAssessment": {
+          "severity": "MEDIUM",
+          "ok": false,
+          "message": "Sponsorship exists, but continuity still depends on active intervention."
+        },
+        "churnSignalAssessment": {
+          "severity": "MEDIUM",
+          "ok": false,
+          "message": "A churn signal is forming and should be closed before the next review cycle."
+        },
+        "exposureAssessment": {
+          "severity": "HIGH",
+          "ok": false,
+          "message": "Contract exposure is too high for the current renewal weakness."
+        },
+        "compositeExitRiskScore": 37.6
+      },
+      {
+        "id": "identity-renewal",
+        "lane": "Identity renewal cluster",
+        "track": "TRUST_CONTINUITY",
+        "action": "RENEW",
+        "accountCluster": "Identity and admin-proof renewals",
+        "boardQuestion": "Which renewals are strongest enough to treat as commercial anchors?",
+        "owner": "Chief Information Security Officer",
+        "audience": "Audit committee",
+        "currentPosture": "Identity proof is stable and current enough to support confident renewal language.",
+        "renewalNarrative": "Identity reviews, admin posture, and mobile protection remain renewal anchors.",
+        "exitRiskReality": "Only one guest-access packet is aging, and sponsor continuity is still healthy.",
+        "riskHeadline": "Identity remains the healthiest renewal cluster with only small freshness cleanup left.",
+        "renewalSignal": "Customer and board confidence remain aligned with the underlying proof set.",
+        "missingProof": "One refreshed guest-access proof export",
+        "evidenceArtifacts": [
+          "guest access export",
+          "mobile posture packet",
+          "access-review trail"
+        ],
+        "remediationMoves": [
+          "refresh guest export",
+          "lock identity as reference renewal lane"
+        ],
+        "relatedSurfaces": [
+          "guest.kineticgain.com",
+          "protect.kineticgain.com",
+          "certs.kineticgain.com"
+        ],
+        "companyTags": [
+          "Microsoft",
+          "Entra",
+          "Okta"
+        ],
+        "renewalConfidenceScore": 87,
+        "deliveryFreshnessDays": 16,
+        "sponsorContinuityScore": 86,
+        "churnSignalCount": 0,
+        "contractExposureScore": 66,
+        "renewalExposureMillions": 18,
+        "headline": "Identity renewals can close quickly with a small evidence refresh.",
+        "narrative": "This is the benchmark lane for retention-safe proof and sponsor continuity.",
+        "nextMove": "Refresh the guest-access export and use identity as the commercial reference lane.",
+        "renewalConfidenceAssessment": {
+          "severity": "LOW",
+          "ok": true,
+          "message": "Renewal confidence is strong enough for the next commercial review."
+        },
+        "deliveryFreshnessAssessment": {
+          "severity": "MEDIUM",
+          "ok": false,
+          "message": "Delivery proof is aging and should be refreshed before the next commercial review."
+        },
+        "sponsorContinuityAssessment": {
+          "severity": "LOW",
+          "ok": true,
+          "message": "Executive sponsorship is stable enough to defend the account."
+        },
+        "churnSignalAssessment": {
+          "severity": "LOW",
+          "ok": true,
+          "message": "No material churn signal is visible in the current account posture."
+        },
+        "exposureAssessment": {
+          "severity": "MEDIUM",
+          "ok": false,
+          "message": "Contract exposure is rising faster than the account proof set."
+        },
+        "compositeExitRiskScore": 21.8
+      },
+      {
+        "id": "platform-renewal",
+        "lane": "Platform continuity renewal cluster",
+        "track": "DELIVERY_CONTINUITY",
+        "action": "ESCALATE",
+        "accountCluster": "Platform reliability and continuity renewals",
+        "boardQuestion": "Where are delivery and recovery proof gaps most likely to trigger commercial hesitation?",
+        "owner": "VP Platform Engineering",
+        "audience": "Board technology committee",
+        "currentPosture": "Commercial belief in the platform is ahead of the recovery proof chain.",
+        "renewalNarrative": "Hosting, release safety, and recovery operations are strong enough to defend renewal.",
+        "exitRiskReality": "Backup, rollback, and recovery packets are still fragmented across too many surfaces.",
+        "riskHeadline": "Platform renewals need escalation because the continuity proof chain is still fragmented.",
+        "renewalSignal": "Sponsors want to renew, but board-visible continuity proof is not yet stitched together well enough.",
+        "missingProof": "One end-to-end packet connecting hosting, rollback, backup, and recovery proof",
+        "evidenceArtifacts": [
+          "backup drill report",
+          "rollback packet",
+          "hosted validator export"
+        ],
+        "remediationMoves": [
+          "assemble continuity packet",
+          "escalate one owner",
+          "tighten renewal wording"
+        ],
+        "relatedSurfaces": [
+          "backup.kineticgain.com",
+          "validator.kineticgain.com",
+          "docs.kineticgain.com"
+        ],
+        "companyTags": [
+          "Cloudflare",
+          "GitHub",
+          "Hostinger"
+        ],
+        "renewalConfidenceScore": 61,
+        "deliveryFreshnessDays": 24,
+        "sponsorContinuityScore": 63,
+        "churnSignalCount": 2,
+        "contractExposureScore": 78,
+        "renewalExposureMillions": 31,
+        "headline": "Platform renewals are winnable, but the continuity packet needs one owner fast.",
+        "narrative": "The issue is evidence stitching and sponsor confidence, not lack of technical surface area.",
+        "nextMove": "Escalate one owner to assemble the continuity packet before the next renewal checkpoint.",
+        "renewalConfidenceAssessment": {
+          "severity": "HIGH",
+          "ok": false,
+          "message": "Renewal confidence is weaker than the current renewal story implies."
+        },
+        "deliveryFreshnessAssessment": {
+          "severity": "MEDIUM",
+          "ok": false,
+          "message": "Delivery proof is aging and should be refreshed before the next commercial review."
+        },
+        "sponsorContinuityAssessment": {
+          "severity": "HIGH",
+          "ok": false,
+          "message": "Sponsorship continuity is too weak to keep the renewal path stable."
+        },
+        "churnSignalAssessment": {
+          "severity": "HIGH",
+          "ok": false,
+          "message": "Churn signal load is already visible enough to threaten the renewal."
+        },
+        "exposureAssessment": {
+          "severity": "HIGH",
+          "ok": false,
+          "message": "Contract exposure is too high for the current renewal weakness."
+        },
+        "compositeExitRiskScore": 43.6
+      },
+      {
+        "id": "procurement-renewal",
+        "lane": "Procurement renewal cluster",
+        "track": "TRUST_CONTINUITY",
+        "action": "RENEW",
+        "accountCluster": "Questionnaire and trust-center renewals",
+        "boardQuestion": "Which renewal lane can anchor the rest of the commercial proof stack?",
+        "owner": "Chief Commercial Officer",
+        "audience": "Board growth committee",
+        "currentPosture": "Procurement remains the strongest renewal and proof-reuse lane.",
+        "renewalNarrative": "Security questionnaires, trust-center proof, and answer-pack reuse remain renewal-ready.",
+        "exitRiskReality": "Coverage is strong, with only minor proof-index hygiene still helpful.",
+        "riskHeadline": "Procurement is structurally strong enough to anchor the broader renewal stack.",
+        "renewalSignal": "Renewal momentum is backed by clear proof reuse and stable commercial trust.",
+        "missingProof": "Published proof-coverage index across the procurement stack",
+        "evidenceArtifacts": [
+          "questionnaire answer pack",
+          "trust-center packet",
+          "proof coverage index"
+        ],
+        "remediationMoves": [
+          "publish coverage index",
+          "standardize answer-pack attachments",
+          "lock lane as reference"
+        ],
+        "relatedSurfaces": [
+          "procurement.kineticgain.com",
+          "questionnaire.kineticgain.com",
+          "trust.kineticgain.com"
+        ],
+        "companyTags": [
+          "Vanta",
+          "Drata",
+          "Google"
+        ],
+        "renewalConfidenceScore": 90,
+        "deliveryFreshnessDays": 12,
+        "sponsorContinuityScore": 85,
+        "churnSignalCount": 0,
+        "contractExposureScore": 60,
+        "renewalExposureMillions": 15,
+        "headline": "Procurement should anchor the renewal proof stack.",
+        "narrative": "Use this lane as the commercial standard for retention-safe proof reuse.",
+        "nextMove": "Publish the proof-coverage index and lock this lane as the reference renewal surface.",
+        "renewalConfidenceAssessment": {
+          "severity": "LOW",
+          "ok": true,
+          "message": "Renewal confidence is strong enough for the next commercial review."
+        },
+        "deliveryFreshnessAssessment": {
+          "severity": "LOW",
+          "ok": true,
+          "message": "Delivery proof is fresh enough to support the renewal narrative."
+        },
+        "sponsorContinuityAssessment": {
+          "severity": "LOW",
+          "ok": true,
+          "message": "Executive sponsorship is stable enough to defend the account."
+        },
+        "churnSignalAssessment": {
+          "severity": "LOW",
+          "ok": true,
+          "message": "No material churn signal is visible in the current account posture."
+        },
+        "exposureAssessment": {
+          "severity": "MEDIUM",
+          "ok": false,
+          "message": "Contract exposure is rising faster than the account proof set."
+        },
+        "compositeExitRiskScore": 19.4
+      },
+      {
+        "id": "pricing-pressure-renewal",
+        "lane": "Revenue and pricing renewal cluster",
+        "track": "PRICING_PRESSURE",
+        "action": "EXIT",
+        "accountCluster": "Revenue-systems and pricing-sensitive renewals",
+        "boardQuestion": "Which renewals are too early or too weak to defend without scope changes or intentional exits?",
+        "owner": "Chief Revenue Officer",
+        "audience": "Board finance committee",
+        "currentPosture": "The control-plane story is promising, but price pressure is rising faster than proof depth.",
+        "renewalNarrative": "Reporting, attribution, and release controls justify a clean commercial renewal at current pricing.",
+        "exitRiskReality": "Cross-surface proof is too thin for the strength of the current commercial ask.",
+        "riskHeadline": "Pricing pressure and thin proof make this renewal cluster the closest to intentional exit.",
+        "renewalSignal": "Commercial pressure is high and the story still outruns the evidence bundle.",
+        "missingProof": "One end-to-end packet linking reporting, release controls, and attributable outcomes",
+        "evidenceArtifacts": [
+          "reporting control matrix",
+          "release packet",
+          "attribution example"
+        ],
+        "remediationMoves": [
+          "restate value story",
+          "publish linked revenue packet",
+          "model exit-safe path"
+        ],
+        "relatedSurfaces": [
+          "powerbi.kineticgain.com",
+          "yield.kineticgain.com",
+          "martech.kineticgain.com"
+        ],
+        "companyTags": [
+          "Power BI",
+          "Tableau",
+          "VWO"
+        ],
+        "renewalConfidenceScore": 54,
+        "deliveryFreshnessDays": 23,
+        "sponsorContinuityScore": 58,
+        "churnSignalCount": 2,
+        "contractExposureScore": 84,
+        "renewalExposureMillions": 27,
+        "headline": "Some pricing-sensitive renewals should be reframed as exit-managed rather than fully defended.",
+        "narrative": "The commercial story is still valuable, but not strong enough at current pricing and proof depth.",
+        "nextMove": "Model an exit-safe path while rebuilding the linked revenue proof packet.",
+        "renewalConfidenceAssessment": {
+          "severity": "HIGH",
+          "ok": false,
+          "message": "Renewal confidence is weaker than the current renewal story implies."
+        },
+        "deliveryFreshnessAssessment": {
+          "severity": "MEDIUM",
+          "ok": false,
+          "message": "Delivery proof is aging and should be refreshed before the next commercial review."
+        },
+        "sponsorContinuityAssessment": {
+          "severity": "HIGH",
+          "ok": false,
+          "message": "Sponsorship continuity is too weak to keep the renewal path stable."
+        },
+        "churnSignalAssessment": {
+          "severity": "HIGH",
+          "ok": false,
+          "message": "Churn signal load is already visible enough to threaten the renewal."
+        },
+        "exposureAssessment": {
+          "severity": "HIGH",
+          "ok": false,
+          "message": "Contract exposure is too high for the current renewal weakness."
+        },
+        "compositeExitRiskScore": 47
+      },
+      {
+        "id": "exec-sponsor-renewal",
+        "lane": "Executive sponsorship renewal cluster",
+        "track": "EXEC_SPONSORSHIP",
+        "action": "SAVE",
+        "accountCluster": "Regulated and board-visible sponsorship renewals",
+        "boardQuestion": "Where is sponsor fragility most likely to turn into avoidable renewal loss?",
+        "owner": "Quality systems lead",
+        "audience": "Board compliance committee",
+        "currentPosture": "The regulated surface is compelling, but sponsor continuity and commercial reinforcement are fragile.",
+        "renewalNarrative": "GxP, specimen, CAPA, and safety surfaces already justify a stable renewal motion.",
+        "exitRiskReality": "Evidence is credible, but sponsor continuity and freshness are weaker than the commercial confidence suggests.",
+        "riskHeadline": "Sponsor fragility is the main threat to this regulated renewal cluster.",
+        "renewalSignal": "Customers still value the surface, but sponsor turnover and older proof are slowing the save case.",
+        "missingProof": "Fresh provenance notes, updated sponsor map, and one repeatable regulated packet",
+        "evidenceArtifacts": [
+          "GxP packet",
+          "specimen custody proof",
+          "CAPA closure ledger"
+        ],
+        "remediationMoves": [
+          "refresh provenance notes",
+          "rebuild sponsor map",
+          "publish repeatable regulated packet"
+        ],
+        "relatedSurfaces": [
+          "gxp.kineticgain.com",
+          "specimen.kineticgain.com",
+          "capa.kineticgain.com",
+          "safety.kineticgain.com"
+        ],
+        "companyTags": [
+          "Veeva",
+          "LabVantage",
+          "Thermo Fisher"
+        ],
+        "renewalConfidenceScore": 66,
+        "deliveryFreshnessDays": 34,
+        "sponsorContinuityScore": 62,
+        "churnSignalCount": 1,
+        "contractExposureScore": 75,
+        "renewalExposureMillions": 28,
+        "headline": "Regulated renewals need sponsorship repair before the next cycle.",
+        "narrative": "The product surface is real, but the account defense needs fresher proof and stronger sponsor continuity.",
+        "nextMove": "Refresh sponsor mapping and publish one repeatable regulated packet before the next renewal checkpoint.",
+        "renewalConfidenceAssessment": {
+          "severity": "HIGH",
+          "ok": false,
+          "message": "Renewal confidence is weaker than the current renewal story implies."
+        },
+        "deliveryFreshnessAssessment": {
+          "severity": "MEDIUM",
+          "ok": false,
+          "message": "Delivery proof is aging and should be refreshed before the next commercial review."
+        },
+        "sponsorContinuityAssessment": {
+          "severity": "HIGH",
+          "ok": false,
+          "message": "Sponsorship continuity is too weak to keep the renewal path stable."
+        },
+        "churnSignalAssessment": {
+          "severity": "MEDIUM",
+          "ok": false,
+          "message": "A churn signal is forming and should be closed before the next review cycle."
+        },
+        "exposureAssessment": {
+          "severity": "HIGH",
+          "ok": false,
+          "message": "Contract exposure is too high for the current renewal weakness."
+        },
+        "compositeExitRiskScore": 40.2
+      }
+    ]
+  },
+  "renewalRegister": [
+    {
+      "lane": "AI governance renewal cluster",
+      "accountCluster": "AI governance advisory renewals",
+      "action": "SAVE",
+      "owner": "Chief AI Officer",
+      "audience": "Board growth committee",
+      "renewalNarrative": "The AI governance lane is sticky enough to renew if we tighten the operator proof set.",
+      "renewalConfidenceScore": 69,
+      "nextMove": "Refresh the operating packet and narrow the renewal story to the highest-confidence outcomes."
+    },
+    {
+      "lane": "Identity renewal cluster",
+      "accountCluster": "Identity and admin-proof renewals",
+      "action": "RENEW",
+      "owner": "Chief Information Security Officer",
+      "audience": "Audit committee",
+      "renewalNarrative": "Identity reviews, admin posture, and mobile protection remain renewal anchors.",
+      "renewalConfidenceScore": 87,
+      "nextMove": "Refresh the guest-access export and use identity as the commercial reference lane."
+    },
+    {
+      "lane": "Platform continuity renewal cluster",
+      "accountCluster": "Platform reliability and continuity renewals",
+      "action": "ESCALATE",
+      "owner": "VP Platform Engineering",
+      "audience": "Board technology committee",
+      "renewalNarrative": "Hosting, release safety, and recovery operations are strong enough to defend renewal.",
+      "renewalConfidenceScore": 61,
+      "nextMove": "Escalate one owner to assemble the continuity packet before the next renewal checkpoint."
+    },
+    {
+      "lane": "Procurement renewal cluster",
+      "accountCluster": "Questionnaire and trust-center renewals",
+      "action": "RENEW",
+      "owner": "Chief Commercial Officer",
+      "audience": "Board growth committee",
+      "renewalNarrative": "Security questionnaires, trust-center proof, and answer-pack reuse remain renewal-ready.",
+      "renewalConfidenceScore": 90,
+      "nextMove": "Publish the proof-coverage index and lock this lane as the reference renewal surface."
+    },
+    {
+      "lane": "Revenue and pricing renewal cluster",
+      "accountCluster": "Revenue-systems and pricing-sensitive renewals",
+      "action": "EXIT",
+      "owner": "Chief Revenue Officer",
+      "audience": "Board finance committee",
+      "renewalNarrative": "Reporting, attribution, and release controls justify a clean commercial renewal at current pricing.",
+      "renewalConfidenceScore": 54,
+      "nextMove": "Model an exit-safe path while rebuilding the linked revenue proof packet."
+    },
+    {
+      "lane": "Executive sponsorship renewal cluster",
+      "accountCluster": "Regulated and board-visible sponsorship renewals",
+      "action": "SAVE",
+      "owner": "Quality systems lead",
+      "audience": "Board compliance committee",
+      "renewalNarrative": "GxP, specimen, CAPA, and safety surfaces already justify a stable renewal motion.",
+      "renewalConfidenceScore": 66,
+      "nextMove": "Refresh sponsor mapping and publish one repeatable regulated packet before the next renewal checkpoint."
+    }
+  ],
+  "exitMatrix": [
+    {
+      "lane": "AI governance renewal cluster",
+      "track": "RENEWAL_RISK",
+      "riskHeadline": "AI-governance renewals need fresher operating proof before the next board-ready commercial review.",
+      "renewalSignal": "Pipeline stays warm, but customer confidence is now asking for newer evidence of control durability.",
+      "missingProof": "Fresh exception-handling export, renewed eval packet, and updated rollback outcomes",
+      "evidenceArtifacts": [
+        "exception-handling export",
+        "evaluation packet",
+        "rollback outcomes"
+      ],
+      "renewalConfidenceScore": 69,
+      "deliveryFreshnessDays": 28,
+      "sponsorContinuityScore": 72
+    },
+    {
+      "lane": "Identity renewal cluster",
+      "track": "TRUST_CONTINUITY",
+      "riskHeadline": "Identity remains the healthiest renewal cluster with only small freshness cleanup left.",
+      "renewalSignal": "Customer and board confidence remain aligned with the underlying proof set.",
+      "missingProof": "One refreshed guest-access proof export",
+      "evidenceArtifacts": [
+        "guest access export",
+        "mobile posture packet",
+        "access-review trail"
+      ],
+      "renewalConfidenceScore": 87,
+      "deliveryFreshnessDays": 16,
+      "sponsorContinuityScore": 86
+    },
+    {
+      "lane": "Platform continuity renewal cluster",
+      "track": "DELIVERY_CONTINUITY",
+      "riskHeadline": "Platform renewals need escalation because the continuity proof chain is still fragmented.",
+      "renewalSignal": "Sponsors want to renew, but board-visible continuity proof is not yet stitched together well enough.",
+      "missingProof": "One end-to-end packet connecting hosting, rollback, backup, and recovery proof",
+      "evidenceArtifacts": [
+        "backup drill report",
+        "rollback packet",
+        "hosted validator export"
+      ],
+      "renewalConfidenceScore": 61,
+      "deliveryFreshnessDays": 24,
+      "sponsorContinuityScore": 63
+    },
+    {
+      "lane": "Procurement renewal cluster",
+      "track": "TRUST_CONTINUITY",
+      "riskHeadline": "Procurement is structurally strong enough to anchor the broader renewal stack.",
+      "renewalSignal": "Renewal momentum is backed by clear proof reuse and stable commercial trust.",
+      "missingProof": "Published proof-coverage index across the procurement stack",
+      "evidenceArtifacts": [
+        "questionnaire answer pack",
+        "trust-center packet",
+        "proof coverage index"
+      ],
+      "renewalConfidenceScore": 90,
+      "deliveryFreshnessDays": 12,
+      "sponsorContinuityScore": 85
+    },
+    {
+      "lane": "Revenue and pricing renewal cluster",
+      "track": "PRICING_PRESSURE",
+      "riskHeadline": "Pricing pressure and thin proof make this renewal cluster the closest to intentional exit.",
+      "renewalSignal": "Commercial pressure is high and the story still outruns the evidence bundle.",
+      "missingProof": "One end-to-end packet linking reporting, release controls, and attributable outcomes",
+      "evidenceArtifacts": [
+        "reporting control matrix",
+        "release packet",
+        "attribution example"
+      ],
+      "renewalConfidenceScore": 54,
+      "deliveryFreshnessDays": 23,
+      "sponsorContinuityScore": 58
+    },
+    {
+      "lane": "Executive sponsorship renewal cluster",
+      "track": "EXEC_SPONSORSHIP",
+      "riskHeadline": "Sponsor fragility is the main threat to this regulated renewal cluster.",
+      "renewalSignal": "Customers still value the surface, but sponsor turnover and older proof are slowing the save case.",
+      "missingProof": "Fresh provenance notes, updated sponsor map, and one repeatable regulated packet",
+      "evidenceArtifacts": [
+        "GxP packet",
+        "specimen custody proof",
+        "CAPA closure ledger"
+      ],
+      "renewalConfidenceScore": 66,
+      "deliveryFreshnessDays": 34,
+      "sponsorContinuityScore": 62
+    }
+  ],
+  "recoveryPosture": [
+    {
+      "lane": "AI governance renewal cluster",
+      "action": "SAVE",
+      "churnSignalCount": 1,
+      "compositeExitRiskScore": 37.6,
+      "owner": "Chief AI Officer",
+      "nextMove": "Refresh the operating packet and narrow the renewal story to the highest-confidence outcomes."
+    },
+    {
+      "lane": "Identity renewal cluster",
+      "action": "RENEW",
+      "churnSignalCount": 0,
+      "compositeExitRiskScore": 21.8,
+      "owner": "Chief Information Security Officer",
+      "nextMove": "Refresh the guest-access export and use identity as the commercial reference lane."
+    },
+    {
+      "lane": "Platform continuity renewal cluster",
+      "action": "ESCALATE",
+      "churnSignalCount": 2,
+      "compositeExitRiskScore": 43.6,
+      "owner": "VP Platform Engineering",
+      "nextMove": "Escalate one owner to assemble the continuity packet before the next renewal checkpoint."
+    },
+    {
+      "lane": "Procurement renewal cluster",
+      "action": "RENEW",
+      "churnSignalCount": 0,
+      "compositeExitRiskScore": 19.4,
+      "owner": "Chief Commercial Officer",
+      "nextMove": "Publish the proof-coverage index and lock this lane as the reference renewal surface."
+    },
+    {
+      "lane": "Revenue and pricing renewal cluster",
+      "action": "EXIT",
+      "churnSignalCount": 2,
+      "compositeExitRiskScore": 47,
+      "owner": "Chief Revenue Officer",
+      "nextMove": "Model an exit-safe path while rebuilding the linked revenue proof packet."
+    },
+    {
+      "lane": "Executive sponsorship renewal cluster",
+      "action": "SAVE",
+      "churnSignalCount": 1,
+      "compositeExitRiskScore": 40.2,
+      "owner": "Quality systems lead",
+      "nextMove": "Refresh sponsor mapping and publish one repeatable regulated packet before the next renewal checkpoint."
+    }
+  ],
+  "riskMap": [
+    {
+      "lane": "AI governance renewal cluster",
+      "track": "RENEWAL_RISK",
+      "compositeExitRiskScore": 37.6,
+      "renewalExposureMillions": 34,
+      "contractExposureScore": 81,
+      "companyTags": [
+        "OpenAI",
+        "Anthropic",
+        "Microsoft"
+      ]
+    },
+    {
+      "lane": "Identity renewal cluster",
+      "track": "TRUST_CONTINUITY",
+      "compositeExitRiskScore": 21.8,
+      "renewalExposureMillions": 18,
+      "contractExposureScore": 66,
+      "companyTags": [
+        "Microsoft",
+        "Entra",
+        "Okta"
+      ]
+    },
+    {
+      "lane": "Platform continuity renewal cluster",
+      "track": "DELIVERY_CONTINUITY",
+      "compositeExitRiskScore": 43.6,
+      "renewalExposureMillions": 31,
+      "contractExposureScore": 78,
+      "companyTags": [
+        "Cloudflare",
+        "GitHub",
+        "Hostinger"
+      ]
+    },
+    {
+      "lane": "Procurement renewal cluster",
+      "track": "TRUST_CONTINUITY",
+      "compositeExitRiskScore": 19.4,
+      "renewalExposureMillions": 15,
+      "contractExposureScore": 60,
+      "companyTags": [
+        "Vanta",
+        "Drata",
+        "Google"
+      ]
+    },
+    {
+      "lane": "Revenue and pricing renewal cluster",
+      "track": "PRICING_PRESSURE",
+      "compositeExitRiskScore": 47,
+      "renewalExposureMillions": 27,
+      "contractExposureScore": 84,
+      "companyTags": [
+        "Power BI",
+        "Tableau",
+        "VWO"
+      ]
+    },
+    {
+      "lane": "Executive sponsorship renewal cluster",
+      "track": "EXEC_SPONSORSHIP",
+      "compositeExitRiskScore": 40.2,
+      "renewalExposureMillions": 28,
+      "contractExposureScore": 75,
+      "companyTags": [
+        "Veeva",
+        "LabVantage",
+        "Thermo Fisher"
+      ]
+    }
+  ],
+  "verification": [
+    "Synthetic renewal data only - no live contracts, customers, pricing schedules, or commercial account records are included.",
+    "Scores are modeled to show how Kinetic Gain can compare renewal confidence, delivery freshness, sponsor continuity, churn signals, and contract exposure in one board-readable commercial surface.",
+    "All routes are read-only and demonstrate renewal and exit-readiness monitoring, not production legal, financial, or commercial advice."
+  ],
+  "sample": [
+    {
+      "id": "ai-governance-renewal",
+      "lane": "AI governance renewal cluster",
+      "track": "RENEWAL_RISK",
+      "action": "SAVE",
+      "accountCluster": "AI governance advisory renewals",
+      "boardQuestion": "Which AI-governance renewals are most likely to slip into exit without immediate intervention?",
+      "owner": "Chief AI Officer",
+      "audience": "Board growth committee",
+      "currentPosture": "Renewal intent is still present, but proof of operational impact has aged.",
+      "renewalNarrative": "The AI governance lane is sticky enough to renew if we tighten the operator proof set.",
+      "exitRiskReality": "Rollback, exception, and eval proof is older than the renewal story implies.",
+      "riskHeadline": "AI-governance renewals need fresher operating proof before the next board-ready commercial review.",
+      "renewalSignal": "Pipeline stays warm, but customer confidence is now asking for newer evidence of control durability.",
+      "missingProof": "Fresh exception-handling export, renewed eval packet, and updated rollback outcomes",
+      "evidenceArtifacts": [
+        "exception-handling export",
+        "evaluation packet",
+        "rollback outcomes"
+      ],
+      "remediationMoves": [
+        "refresh operating exports",
+        "tighten board renewal memo",
+        "restate newest proof boundaries"
+      ],
+      "relatedSurfaces": [
+        "scorecard.kineticgain.com",
+        "memo.kineticgain.com",
+        "agents.kineticgain.com"
+      ],
+      "companyTags": [
+        "OpenAI",
+        "Anthropic",
+        "Microsoft"
+      ],
+      "renewalConfidenceScore": 69,
+      "deliveryFreshnessDays": 28,
+      "sponsorContinuityScore": 72,
+      "churnSignalCount": 1,
+      "contractExposureScore": 81,
+      "renewalExposureMillions": 34,
+      "headline": "AI governance renewals are recoverable, but only if proof freshness improves fast.",
+      "narrative": "This is a delivery-proof and board-story problem more than a category-demand problem.",
+      "nextMove": "Refresh the operating packet and narrow the renewal story to the highest-confidence outcomes."
+    },
+    {
+      "id": "identity-renewal",
+      "lane": "Identity renewal cluster",
+      "track": "TRUST_CONTINUITY",
+      "action": "RENEW",
+      "accountCluster": "Identity and admin-proof renewals",
+      "boardQuestion": "Which renewals are strongest enough to treat as commercial anchors?",
+      "owner": "Chief Information Security Officer",
+      "audience": "Audit committee",
+      "currentPosture": "Identity proof is stable and current enough to support confident renewal language.",
+      "renewalNarrative": "Identity reviews, admin posture, and mobile protection remain renewal anchors.",
+      "exitRiskReality": "Only one guest-access packet is aging, and sponsor continuity is still healthy.",
+      "riskHeadline": "Identity remains the healthiest renewal cluster with only small freshness cleanup left.",
+      "renewalSignal": "Customer and board confidence remain aligned with the underlying proof set.",
+      "missingProof": "One refreshed guest-access proof export",
+      "evidenceArtifacts": [
+        "guest access export",
+        "mobile posture packet",
+        "access-review trail"
+      ],
+      "remediationMoves": [
+        "refresh guest export",
+        "lock identity as reference renewal lane"
+      ],
+      "relatedSurfaces": [
+        "guest.kineticgain.com",
+        "protect.kineticgain.com",
+        "certs.kineticgain.com"
+      ],
+      "companyTags": [
+        "Microsoft",
+        "Entra",
+        "Okta"
+      ],
+      "renewalConfidenceScore": 87,
+      "deliveryFreshnessDays": 16,
+      "sponsorContinuityScore": 86,
+      "churnSignalCount": 0,
+      "contractExposureScore": 66,
+      "renewalExposureMillions": 18,
+      "headline": "Identity renewals can close quickly with a small evidence refresh.",
+      "narrative": "This is the benchmark lane for retention-safe proof and sponsor continuity.",
+      "nextMove": "Refresh the guest-access export and use identity as the commercial reference lane."
+    },
+    {
+      "id": "platform-renewal",
+      "lane": "Platform continuity renewal cluster",
+      "track": "DELIVERY_CONTINUITY",
+      "action": "ESCALATE",
+      "accountCluster": "Platform reliability and continuity renewals",
+      "boardQuestion": "Where are delivery and recovery proof gaps most likely to trigger commercial hesitation?",
+      "owner": "VP Platform Engineering",
+      "audience": "Board technology committee",
+      "currentPosture": "Commercial belief in the platform is ahead of the recovery proof chain.",
+      "renewalNarrative": "Hosting, release safety, and recovery operations are strong enough to defend renewal.",
+      "exitRiskReality": "Backup, rollback, and recovery packets are still fragmented across too many surfaces.",
+      "riskHeadline": "Platform renewals need escalation because the continuity proof chain is still fragmented.",
+      "renewalSignal": "Sponsors want to renew, but board-visible continuity proof is not yet stitched together well enough.",
+      "missingProof": "One end-to-end packet connecting hosting, rollback, backup, and recovery proof",
+      "evidenceArtifacts": [
+        "backup drill report",
+        "rollback packet",
+        "hosted validator export"
+      ],
+      "remediationMoves": [
+        "assemble continuity packet",
+        "escalate one owner",
+        "tighten renewal wording"
+      ],
+      "relatedSurfaces": [
+        "backup.kineticgain.com",
+        "validator.kineticgain.com",
+        "docs.kineticgain.com"
+      ],
+      "companyTags": [
+        "Cloudflare",
+        "GitHub",
+        "Hostinger"
+      ],
+      "renewalConfidenceScore": 61,
+      "deliveryFreshnessDays": 24,
+      "sponsorContinuityScore": 63,
+      "churnSignalCount": 2,
+      "contractExposureScore": 78,
+      "renewalExposureMillions": 31,
+      "headline": "Platform renewals are winnable, but the continuity packet needs one owner fast.",
+      "narrative": "The issue is evidence stitching and sponsor confidence, not lack of technical surface area.",
+      "nextMove": "Escalate one owner to assemble the continuity packet before the next renewal checkpoint."
+    },
+    {
+      "id": "procurement-renewal",
+      "lane": "Procurement renewal cluster",
+      "track": "TRUST_CONTINUITY",
+      "action": "RENEW",
+      "accountCluster": "Questionnaire and trust-center renewals",
+      "boardQuestion": "Which renewal lane can anchor the rest of the commercial proof stack?",
+      "owner": "Chief Commercial Officer",
+      "audience": "Board growth committee",
+      "currentPosture": "Procurement remains the strongest renewal and proof-reuse lane.",
+      "renewalNarrative": "Security questionnaires, trust-center proof, and answer-pack reuse remain renewal-ready.",
+      "exitRiskReality": "Coverage is strong, with only minor proof-index hygiene still helpful.",
+      "riskHeadline": "Procurement is structurally strong enough to anchor the broader renewal stack.",
+      "renewalSignal": "Renewal momentum is backed by clear proof reuse and stable commercial trust.",
+      "missingProof": "Published proof-coverage index across the procurement stack",
+      "evidenceArtifacts": [
+        "questionnaire answer pack",
+        "trust-center packet",
+        "proof coverage index"
+      ],
+      "remediationMoves": [
+        "publish coverage index",
+        "standardize answer-pack attachments",
+        "lock lane as reference"
+      ],
+      "relatedSurfaces": [
+        "procurement.kineticgain.com",
+        "questionnaire.kineticgain.com",
+        "trust.kineticgain.com"
+      ],
+      "companyTags": [
+        "Vanta",
+        "Drata",
+        "Google"
+      ],
+      "renewalConfidenceScore": 90,
+      "deliveryFreshnessDays": 12,
+      "sponsorContinuityScore": 85,
+      "churnSignalCount": 0,
+      "contractExposureScore": 60,
+      "renewalExposureMillions": 15,
+      "headline": "Procurement should anchor the renewal proof stack.",
+      "narrative": "Use this lane as the commercial standard for retention-safe proof reuse.",
+      "nextMove": "Publish the proof-coverage index and lock this lane as the reference renewal surface."
+    },
+    {
+      "id": "pricing-pressure-renewal",
+      "lane": "Revenue and pricing renewal cluster",
+      "track": "PRICING_PRESSURE",
+      "action": "EXIT",
+      "accountCluster": "Revenue-systems and pricing-sensitive renewals",
+      "boardQuestion": "Which renewals are too early or too weak to defend without scope changes or intentional exits?",
+      "owner": "Chief Revenue Officer",
+      "audience": "Board finance committee",
+      "currentPosture": "The control-plane story is promising, but price pressure is rising faster than proof depth.",
+      "renewalNarrative": "Reporting, attribution, and release controls justify a clean commercial renewal at current pricing.",
+      "exitRiskReality": "Cross-surface proof is too thin for the strength of the current commercial ask.",
+      "riskHeadline": "Pricing pressure and thin proof make this renewal cluster the closest to intentional exit.",
+      "renewalSignal": "Commercial pressure is high and the story still outruns the evidence bundle.",
+      "missingProof": "One end-to-end packet linking reporting, release controls, and attributable outcomes",
+      "evidenceArtifacts": [
+        "reporting control matrix",
+        "release packet",
+        "attribution example"
+      ],
+      "remediationMoves": [
+        "restate value story",
+        "publish linked revenue packet",
+        "model exit-safe path"
+      ],
+      "relatedSurfaces": [
+        "powerbi.kineticgain.com",
+        "yield.kineticgain.com",
+        "martech.kineticgain.com"
+      ],
+      "companyTags": [
+        "Power BI",
+        "Tableau",
+        "VWO"
+      ],
+      "renewalConfidenceScore": 54,
+      "deliveryFreshnessDays": 23,
+      "sponsorContinuityScore": 58,
+      "churnSignalCount": 2,
+      "contractExposureScore": 84,
+      "renewalExposureMillions": 27,
+      "headline": "Some pricing-sensitive renewals should be reframed as exit-managed rather than fully defended.",
+      "narrative": "The commercial story is still valuable, but not strong enough at current pricing and proof depth.",
+      "nextMove": "Model an exit-safe path while rebuilding the linked revenue proof packet."
+    },
+    {
+      "id": "exec-sponsor-renewal",
+      "lane": "Executive sponsorship renewal cluster",
+      "track": "EXEC_SPONSORSHIP",
+      "action": "SAVE",
+      "accountCluster": "Regulated and board-visible sponsorship renewals",
+      "boardQuestion": "Where is sponsor fragility most likely to turn into avoidable renewal loss?",
+      "owner": "Quality systems lead",
+      "audience": "Board compliance committee",
+      "currentPosture": "The regulated surface is compelling, but sponsor continuity and commercial reinforcement are fragile.",
+      "renewalNarrative": "GxP, specimen, CAPA, and safety surfaces already justify a stable renewal motion.",
+      "exitRiskReality": "Evidence is credible, but sponsor continuity and freshness are weaker than the commercial confidence suggests.",
+      "riskHeadline": "Sponsor fragility is the main threat to this regulated renewal cluster.",
+      "renewalSignal": "Customers still value the surface, but sponsor turnover and older proof are slowing the save case.",
+      "missingProof": "Fresh provenance notes, updated sponsor map, and one repeatable regulated packet",
+      "evidenceArtifacts": [
+        "GxP packet",
+        "specimen custody proof",
+        "CAPA closure ledger"
+      ],
+      "remediationMoves": [
+        "refresh provenance notes",
+        "rebuild sponsor map",
+        "publish repeatable regulated packet"
+      ],
+      "relatedSurfaces": [
+        "gxp.kineticgain.com",
+        "specimen.kineticgain.com",
+        "capa.kineticgain.com",
+        "safety.kineticgain.com"
+      ],
+      "companyTags": [
+        "Veeva",
+        "LabVantage",
+        "Thermo Fisher"
+      ],
+      "renewalConfidenceScore": 66,
+      "deliveryFreshnessDays": 34,
+      "sponsorContinuityScore": 62,
+      "churnSignalCount": 1,
+      "contractExposureScore": 75,
+      "renewalExposureMillions": 28,
+      "headline": "Regulated renewals need sponsorship repair before the next cycle.",
+      "narrative": "The product surface is real, but the account defense needs fresher proof and stronger sponsor continuity.",
+      "nextMove": "Refresh sponsor mapping and publish one repeatable regulated packet before the next renewal checkpoint."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "lane": "AI governance renewal cluster",
+    "track": "RENEWAL_RISK",
+    "riskHeadline": "AI-governance renewals need fresher operating proof before the next board-ready commercial review.",
+    "renewalSignal": "Pipeline stays warm, but customer confidence is now asking for newer evidence of control durability.",
+    "missingProof": "Fresh exception-handling export, renewed eval packet, and updated rollback outcomes",
+    "evidenceArtifacts": [
+      "exception-handling export",
+      "evaluation packet",
+      "rollback outcomes"
+    ],
+    "renewalConfidenceScore": 69,
+    "deliveryFreshnessDays": 28,
+    "sponsorContinuityScore": 72
+  },
+  {
+    "lane": "Identity renewal cluster",
+    "track": "TRUST_CONTINUITY",
+    "riskHeadline": "Identity remains the healthiest renewal cluster with only small freshness cleanup left.",
+    "renewalSignal": "Customer and board confidence remain aligned with the underlying proof set.",
+    "missingProof": "One refreshed guest-access proof export",
+    "evidenceArtifacts": [
+      "guest access export",
+      "mobile posture packet",
+      "access-review trail"
+    ],
+    "renewalConfidenceScore": 87,
+    "deliveryFreshnessDays": 16,
+    "sponsorContinuityScore": 86
+  },
+  {
+    "lane": "Platform continuity renewal cluster",
+    "track": "DELIVERY_CONTINUITY",
+    "riskHeadline": "Platform renewals need escalation because the continuity proof chain is still fragmented.",
+    "renewalSignal": "Sponsors want to renew, but board-visible continuity proof is not yet stitched together well enough.",
+    "missingProof": "One end-to-end packet connecting hosting, rollback, backup, and recovery proof",
+    "evidenceArtifacts": [
+      "backup drill report",
+      "rollback packet",
+      "hosted validator export"
+    ],
+    "renewalConfidenceScore": 61,
+    "deliveryFreshnessDays": 24,
+    "sponsorContinuityScore": 63
+  },
+  {
+    "lane": "Procurement renewal cluster",
+    "track": "TRUST_CONTINUITY",
+    "riskHeadline": "Procurement is structurally strong enough to anchor the broader renewal stack.",
+    "renewalSignal": "Renewal momentum is backed by clear proof reuse and stable commercial trust.",
+    "missingProof": "Published proof-coverage index across the procurement stack",
+    "evidenceArtifacts": [
+      "questionnaire answer pack",
+      "trust-center packet",
+      "proof coverage index"
+    ],
+    "renewalConfidenceScore": 90,
+    "deliveryFreshnessDays": 12,
+    "sponsorContinuityScore": 85
+  },
+  {
+    "lane": "Revenue and pricing renewal cluster",
+    "track": "PRICING_PRESSURE",
+    "riskHeadline": "Pricing pressure and thin proof make this renewal cluster the closest to intentional exit.",
+    "renewalSignal": "Commercial pressure is high and the story still outruns the evidence bundle.",
+    "missingProof": "One end-to-end packet linking reporting, release controls, and attributable outcomes",
+    "evidenceArtifacts": [
+      "reporting control matrix",
+      "release packet",
+      "attribution example"
+    ],
+    "renewalConfidenceScore": 54,
+    "deliveryFreshnessDays": 23,
+    "sponsorContinuityScore": 58
+  },
+  {
+    "lane": "Executive sponsorship renewal cluster",
+    "track": "EXEC_SPONSORSHIP",
+    "riskHeadline": "Sponsor fragility is the main threat to this regulated renewal cluster.",
+    "renewalSignal": "Customers still value the surface, but sponsor turnover and older proof are slowing the save case.",
+    "missingProof": "Fresh provenance notes, updated sponsor map, and one repeatable regulated packet",
+    "evidenceArtifacts": [
+      "GxP packet",
+      "specimen custody proof",
+      "CAPA closure ledger"
+    ],
+    "renewalConfidenceScore": 66,
+    "deliveryFreshnessDays": 34,
+    "sponsorContinuityScore": 62
+  }
+]

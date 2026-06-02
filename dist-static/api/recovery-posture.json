@@ -1,0 +1,50 @@
+[
+  {
+    "lane": "AI governance renewal cluster",
+    "action": "SAVE",
+    "churnSignalCount": 1,
+    "compositeExitRiskScore": 37.6,
+    "owner": "Chief AI Officer",
+    "nextMove": "Refresh the operating packet and narrow the renewal story to the highest-confidence outcomes."
+  },
+  {
+    "lane": "Identity renewal cluster",
+    "action": "RENEW",
+    "churnSignalCount": 0,
+    "compositeExitRiskScore": 21.8,
+    "owner": "Chief Information Security Officer",
+    "nextMove": "Refresh the guest-access export and use identity as the commercial reference lane."
+  },
+  {
+    "lane": "Platform continuity renewal cluster",
+    "action": "ESCALATE",
+    "churnSignalCount": 2,
+    "compositeExitRiskScore": 43.6,
+    "owner": "VP Platform Engineering",
+    "nextMove": "Escalate one owner to assemble the continuity packet before the next renewal checkpoint."
+  },
+  {
+    "lane": "Procurement renewal cluster",
+    "action": "RENEW",
+    "churnSignalCount": 0,
+    "compositeExitRiskScore": 19.4,
+    "owner": "Chief Commercial Officer",
+    "nextMove": "Publish the proof-coverage index and lock this lane as the reference renewal surface."
+  },
+  {
+    "lane": "Revenue and pricing renewal cluster",
+    "action": "EXIT",
+    "churnSignalCount": 2,
+    "compositeExitRiskScore": 47,
+    "owner": "Chief Revenue Officer",
+    "nextMove": "Model an exit-safe path while rebuilding the linked revenue proof packet."
+  },
+  {
+    "lane": "Executive sponsorship renewal cluster",
+    "action": "SAVE",
+    "churnSignalCount": 1,
+    "compositeExitRiskScore": 40.2,
+    "owner": "Quality systems lead",
+    "nextMove": "Refresh sponsor mapping and publish one repeatable regulated packet before the next renewal checkpoint."
+  }
+]

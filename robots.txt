@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://renewal.kineticgain.com/sitemap.xml

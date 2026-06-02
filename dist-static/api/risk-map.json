@@ -1,0 +1,74 @@
+[
+  {
+    "lane": "AI governance renewal cluster",
+    "track": "RENEWAL_RISK",
+    "compositeExitRiskScore": 37.6,
+    "renewalExposureMillions": 34,
+    "contractExposureScore": 81,
+    "companyTags": [
+      "OpenAI",
+      "Anthropic",
+      "Microsoft"
+    ]
+  },
+  {
+    "lane": "Identity renewal cluster",
+    "track": "TRUST_CONTINUITY",
+    "compositeExitRiskScore": 21.8,
+    "renewalExposureMillions": 18,
+    "contractExposureScore": 66,
+    "companyTags": [
+      "Microsoft",
+      "Entra",
+      "Okta"
+    ]
+  },
+  {
+    "lane": "Platform continuity renewal cluster",
+    "track": "DELIVERY_CONTINUITY",
+    "compositeExitRiskScore": 43.6,
+    "renewalExposureMillions": 31,
+    "contractExposureScore": 78,
+    "companyTags": [
+      "Cloudflare",
+      "GitHub",
+      "Hostinger"
+    ]
+  },
+  {
+    "lane": "Procurement renewal cluster",
+    "track": "TRUST_CONTINUITY",
+    "compositeExitRiskScore": 19.4,
+    "renewalExposureMillions": 15,
+    "contractExposureScore": 60,
+    "companyTags": [
+      "Vanta",
+      "Drata",
+      "Google"
+    ]
+  },
+  {
+    "lane": "Revenue and pricing renewal cluster",
+    "track": "PRICING_PRESSURE",
+    "compositeExitRiskScore": 47,
+    "renewalExposureMillions": 27,
+    "contractExposureScore": 84,
+    "companyTags": [
+      "Power BI",
+      "Tableau",
+      "VWO"
+    ]
+  },
+  {
+    "lane": "Executive sponsorship renewal cluster",
+    "track": "EXEC_SPONSORSHIP",
+    "compositeExitRiskScore": 40.2,
+    "renewalExposureMillions": 28,
+    "contractExposureScore": 75,
+    "companyTags": [
+      "Veeva",
+      "LabVantage",
+      "Thermo Fisher"
+    ]
+  }
+]

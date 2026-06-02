@@ -1,0 +1,62 @@
+[
+  {
+    "lane": "AI governance renewal cluster",
+    "accountCluster": "AI governance advisory renewals",
+    "action": "SAVE",
+    "owner": "Chief AI Officer",
+    "audience": "Board growth committee",
+    "renewalNarrative": "The AI governance lane is sticky enough to renew if we tighten the operator proof set.",
+    "renewalConfidenceScore": 69,
+    "nextMove": "Refresh the operating packet and narrow the renewal story to the highest-confidence outcomes."
+  },
+  {
+    "lane": "Identity renewal cluster",
+    "accountCluster": "Identity and admin-proof renewals",
+    "action": "RENEW",
+    "owner": "Chief Information Security Officer",
+    "audience": "Audit committee",
+    "renewalNarrative": "Identity reviews, admin posture, and mobile protection remain renewal anchors.",
+    "renewalConfidenceScore": 87,
+    "nextMove": "Refresh the guest-access export and use identity as the commercial reference lane."
+  },
+  {
+    "lane": "Platform continuity renewal cluster",
+    "accountCluster": "Platform reliability and continuity renewals",
+    "action": "ESCALATE",
+    "owner": "VP Platform Engineering",
+    "audience": "Board technology committee",
+    "renewalNarrative": "Hosting, release safety, and recovery operations are strong enough to defend renewal.",
+    "renewalConfidenceScore": 61,
+    "nextMove": "Escalate one owner to assemble the continuity packet before the next renewal checkpoint."
+  },
+  {
+    "lane": "Procurement renewal cluster",
+    "accountCluster": "Questionnaire and trust-center renewals",
+    "action": "RENEW",
+    "owner": "Chief Commercial Officer",
+    "audience": "Board growth committee",
+    "renewalNarrative": "Security questionnaires, trust-center proof, and answer-pack reuse remain renewal-ready.",
+    "renewalConfidenceScore": 90,
+    "nextMove": "Publish the proof-coverage index and lock this lane as the reference renewal surface."
+  },
+  {
+    "lane": "Revenue and pricing renewal cluster",
+    "accountCluster": "Revenue-systems and pricing-sensitive renewals",
+    "action": "EXIT",
+    "owner": "Chief Revenue Officer",
+    "audience": "Board finance committee",
+    "renewalNarrative": "Reporting, attribution, and release controls justify a clean commercial renewal at current pricing.",
+    "renewalConfidenceScore": 54,
+    "nextMove": "Model an exit-safe path while rebuilding the linked revenue proof packet."
+  },
+  {
+    "lane": "Executive sponsorship renewal cluster",
+    "accountCluster": "Regulated and board-visible sponsorship renewals",
+    "action": "SAVE",
+    "owner": "Quality systems lead",
+    "audience": "Board compliance committee",
+    "renewalNarrative": "GxP, specimen, CAPA, and safety surfaces already justify a stable renewal motion.",
+    "renewalConfidenceScore": 66,
+    "nextMove": "Refresh sponsor mapping and publish one repeatable regulated packet before the next renewal checkpoint."
+  }
+]

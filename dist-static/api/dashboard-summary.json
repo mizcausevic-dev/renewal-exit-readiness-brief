@@ -1,0 +1,11 @@
+{
+  "accountsTracked": 6,
+  "highExitRiskAccounts": 3,
+  "atRiskRenewals": 5,
+  "sponsorFragilityAccounts": 4,
+  "averageRenewalConfidence": 71.2,
+  "renewalExposureMillions": 153,
+  "leadingMessage": "Renewal weakness is now cross-functional and should be closed as one board-visible save and exit-readiness workstream.",
+  "generatedAt": "2026-06-02T00:00:00Z",
+  "boardMessage": "Use procurement and identity as the reference renewal lanes, escalate platform continuity first, model exit-safe pricing paths second, and refresh AI plus regulated sponsorship proof before the next commercial review."
+}
