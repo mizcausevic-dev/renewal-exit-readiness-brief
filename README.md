@@ -2,7 +2,7 @@
 
 Board-ready executive-intelligence surface for showing where renewals are defensible, where exits are likely, and what leaders need to close before the next commercial review cycle.
 
-- Live: `http://renewal.kineticgain.com/`
+- Live: `https://renewal.kineticgain.com/`
 - Repo: `mizcausevic-dev/renewal-exit-readiness-brief`
 
 ## Why this matters
